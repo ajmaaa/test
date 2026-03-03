@@ -1,0 +1,29 @@
+SampleID,Group,Time,SampleID,Time,Group,Compartment
+Control_T1,Control,T1,RCD60,D60,Control,Root
+Treatment_T1,Treatment,T1,RHD60,D60,SynComs,Root
+Control_T2,Control,T2,RCD0,D0,Control,Root
+Treatment_T2,Treatment,T2,RHD0,D0,SynComs,Root
+Control_T3,Control,T3,RCD3,D3,Control,Root
+Treatment_T3,Treatment,T3,RHD3,D3,SynComs,Root
+Control_T4,Control,T4,RCD7,D7,Control,Root
+Treatment_T4,Treatment,T4,RHD7,D7,SynComs,Root
+Control_T5,Control,T5,RCD14,D14,Control,Root
+Treatment_T5,Treatment,T5,RHD14,D14,SynComs,Root
+Control_T6,Control,T6,RCD21,D21,Control,Root
+Treatment_T6,Treatment,T6,RHD21,D21,SynComs,Root
+Control_T7,Control,T7,RCD28,D28,Control,Root
+Treatment_T7,Treatment,T7,RHD28,D28,SynComs,Root
+,,,SCD60,D60,Control,Rhizosphere soil
+,,,SHD60,D60,SynComs,Rhizosphere soil
+,,,SHD28,D28,SynComs,Rhizosphere soil
+,,,SHD0,D0,SynComs,Rhizosphere soil
+,,,SCD0,D0,Control,Rhizosphere soil
+,,,SCD28,D28,Control,Rhizosphere soil
+,,,SCD21,D21,Control,Rhizosphere soil
+,,,SHD21,D21,SynComs,Rhizosphere soil
+,,,SCD14,D14,Control,Rhizosphere soil
+,,,SHD14,D14,SynComs,Rhizosphere soil
+,,,SCD7,D7,Control,Rhizosphere soil
+,,,SHD7,D7,SynComs,Rhizosphere soil
+,,,SCD3,D3,Control,Rhizosphere soil
+,,,SHD3,D3,SynComs,Rhizosphere soil
